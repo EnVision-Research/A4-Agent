@@ -154,5 +154,6 @@ If you find this work helpful, please cite:
     title={A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning}, 
     author={Zixin Zhang and Kanghao Chen and Hanqing Wang and Hongfei Zhang and Harold Haodong Chen and Chenfei Liao and Litao Guo and Ying-Cong Chen},
     journal={arXiv preprint arXiv:2512.14442},
+    year={2025}
 }
 ```
