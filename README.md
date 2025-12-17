@@ -1,6 +1,6 @@
 # A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.09507) [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://zixinzhang02.github.io/A4-Agent-page/)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2512.14442) [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://zixinzhang02.github.io/A4-Agent-page/)
 
 [Zixin Zhang](https://scholar.google.com/citations?user=BbZ0mwoAAAAJ&hl=zh-CN)<sup>1,4*</sup>,
 [Kanghao Chen](https://khao123.github.io/)<sup>1,4*</sup>,
@@ -27,7 +27,8 @@ A4-Agent is an agentic framework designed for zero-shot affordance reasoning. Gi
 
 ## 📰 News
 
-* **[2025-12]** We release the code for A4-Agent. Arxiv paper is coming soon.
+* **[2025-12]** Arxiv paper is now available. 
+* **[2025-12]** We release the code and website for A4-Agent. 
 
 ## Contents
 
