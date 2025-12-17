@@ -13,7 +13,7 @@
 
 <span class="author-block"><sup>1</sup>HKUST(GZ)</span>
 <span class="author-block"><sup>2</sup>HKUST</span>
-<span class="author-block"><sup>2</sup>SJTU</span>
+<span class="author-block"><sup>3</sup>SJTU</span>
 <span class="author-block"><sup>4</sup>Knowin</span><br>
 <span class="author-block">
     <sup>*</sup>Equal contribution.
