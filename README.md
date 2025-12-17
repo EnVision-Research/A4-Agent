@@ -152,7 +152,7 @@ If you find this work helpful, please cite:
 ```bibtex
 @article{zhang2025a4agent,
     title={A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning}, 
-    author={Zixin Zhang and Kanghao Chen and Hanqing Wang and Hongfei Zhang and Harold Haodong Chen and Chenfei Liao and Litao Guo and Ying-Cong Chen},
+    author={Zhang, Zixin and Chen, Kanghao and Wang, Hanqing and Zhang, Hongfei and Chen, Harold Haodong and Liao, Chenfei and Guo, Litao and Chen, Ying-Cong},
     journal={arXiv preprint arXiv:2512.14442},
     year={2025}
 }
