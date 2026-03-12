@@ -6,7 +6,7 @@
 [Kanghao Chen](https://khao123.github.io/)<sup>1,4*</sup>,
 [Hanqing Wang](https://hq-king.github.io/)<sup>1*</sup>,
 [Hongfei Zhang](https://github.com/soyouthinkyoucantell)<sup>1</sup>,
-[Harold Haodong Chen](https://haroldchen19.github.io/)<sup>1,4*</sup>,
+[Harold Haodong Chen](https://haroldchen19.github.io/)<sup>1,4</sup>,
 [Chenfei Liao](https://chenfei-liao.github.io/)<sup>1,3</sup>,
 [Litao Guo](https://scholar.google.com/citations?hl=zh-CN&user=efdm760AAAAJ)<sup>1</sup>,
 [Ying-Cong Chen](https://www.yingcong.me/)<sup>1,2&#9993;</sup>
