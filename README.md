@@ -26,7 +26,7 @@
 A4-Agent is an agentic framework designed for zero-shot affordance reasoning. Given an observed object, it integrates image generation, object detection, segmentation, and Vision-Language Models (VLMs) to imagine plausible interactions and localize action-specific parts. A4-Agent achieves state-of-the-art performance across multiple benchmarks in a **zero-shot** setting, outperforming baseline models specifically trained for affordance prediction tasks.
 
 ## 📰 News
-
+* **[2026-06]** A4-Agent is accepted by ECCV 2026! 
 * **[2025-12]** Arxiv paper is now available. 
 * **[2025-12]** We release the code and website for A4-Agent. 
 
